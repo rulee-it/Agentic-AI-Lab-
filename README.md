@@ -1,1 +1,4 @@
 # Agentic-AI-Lab-
+Ashmit Naik
+2023428345  2301010207
+CS-I G1
