@@ -1,1 +1,12 @@
 
+Conclusion
+
+This lab demonstrated the successful fine-tuning of a Small Language Model (SLM), DistilGPT-2, on the AG News dataset using the Hugging Face Transformers framework. 
+Despite having significantly fewer parameters than large-scale language models, DistilGPT-2 was able to learn meaningful language patterns from the dataset.
+The training process showed a consistent reduction in training and evaluation loss across epochs, indicating stable and effective learning. 
+
+The final perplexity score of approximately **38** reflects an improvement over the base model, confirming enhanced language modeling capability after fine-tuning.
+Due to computational constraints on Google Colab, the experiment was conducted on a limited subset of the dataset and for a small number of epochs. 
+Nevertheless, the results validate that small language models can be fine-tuned efficiently in low-resource environments while still achieving reasonable performance.
+Overall, this experiment highlights the practicality of using transformer-based Small Language Models for downstream NLP tasks and provides a solid foundation for further 
+experimentation and optimization.
