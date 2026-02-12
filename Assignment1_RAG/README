@@ -95,16 +95,3 @@ print(response)
 ### Step 5: View the Output
 
 The system will retrieve relevant document chunks and generate a context-based answer.
-
----
-
-This completes your README section.
-
-Next, we should write:
-
-👉 **Conclusion** (final section of your report)
-or
-👉 **System Workflow / Methodology Diagram Explanation**
-
-Tell me what’s next in your format. 🚀
-
