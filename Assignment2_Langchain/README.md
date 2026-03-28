@@ -159,7 +159,9 @@ AI_in_education_20260328_160500.txt
 
 ## 👨‍💻 Author
 
-* Your Name
+* Ashmit Naik
+* CS-I 
+* 2023428345
 
 ---
 
