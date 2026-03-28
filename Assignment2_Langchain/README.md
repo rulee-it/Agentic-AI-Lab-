@@ -126,8 +126,8 @@ The generated report includes:
 Reports are saved automatically in the project folder (or `/reports` directory):
 
 ```
-AI_in_Healthcare_20260328_154210.txt
-AI_in_Agriculture_20260328_160500.txt
+AI_in_healthcare_20260328_154210.txt
+AI_in_education_20260328_160500.txt
 ```
 
 ---
